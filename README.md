@@ -1,7 +1,7 @@
 # 📌 E-commerce Sales Analysis Using MySQL
 ## 📚 Index
 1. [Project Overview](#project-overview)
-2. 
+2. [ERD](#erd)
 3.
 4.
 5.
