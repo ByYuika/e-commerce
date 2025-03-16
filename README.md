@@ -1,6 +1,6 @@
 # 📌 E-commerce Sales Analysis Using MySQL
 ## 📚 Index
-1. <a href="Project Overview">Project Overview<a>
+1. [Project Overview](#project-overview)
 2. 
 3.
 4.
